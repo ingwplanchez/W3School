@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"int",
+				"intHumi"
+			],
+			[
+				"h",
+				"humi"
+			],
+			[
+				"E",
+				"EthernetSetpoint"
+			],
+			[
+				"In",
+				"IntSetpoint"
+			],
+			[
+				"m",
+				"mostrar"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"s",
+				"source	<source>"
+			],
+			[
+				"ME",
+				"meta	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python - Sublime Text Console"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_JavaScript.sublime-project",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_JavaScript.sublime-workspace",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_AngularJS.sublime-workspace",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_04_AJSDirectivas2.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_05_AJSControllers.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/namesController.js",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_06_AJSExternalControllers.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_03_AJSExpresiones.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_02_AJSAppCtrl.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_01_AJSInitVarApp.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_00_AJSDirectivas.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_10_Declaraciones.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_11_BlockFunction.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_08_DocumentWrite.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_09_DocInnerHTML.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_07_Alert.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_06_JSBody.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_05_JSHead.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_04_ValidateInput.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_01_ChangeHTML.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_03_ChangeImages.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_02_ChangeTheStyle.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_06_Alert.html",
+		"/C/Users/Anonymous/Desktop/MasQAmigosWeb/Prueba/index.html",
+		"/C/Users/Anonymous/Desktop/MasQAmigosWeb/Prueba/index.htm",
+		"/C/Users/Anonymous/Desktop/MasQAmigosWeb/Prueba/Plantilla del carrusel de Manos a la Obra.htm",
+		"/C/Users/Anonymous/Desktop/index.html",
+		"/C/xampp/htdocs/PHP/Program_19_IncludeOnce.php",
+		"/C/xampp/htdocs/PHP/variables.php",
+		"/C/xampp/htdocs/PHP/Program_18_Include.php",
+		"/C/xampp/htdocs/PHP/incluido.php",
+		"/C/xampp/htdocs/PHP/Program_18_IncludeOnce.php",
+		"/C/Users/Anonymous/Documents/Arduino/DHT11_ADC/DHT11_ADC.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Web_server_IO/eth_websrv_SD_Ajax_in_out/eth_websrv_SD_Ajax_in_out.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_MonitoreoMultiple/Ethernet_MonitoreoMultiple.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Invernadero/Ethernet_Invernadero.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Inver_DHT11/Ethernet_Inver_DHT11.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_InverDHT11_2/Ethernet_InverDHT11_2.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Invernadero/index.htm",
+		"/C/Users/Anonymous/Documents/Arduino/Program_02_Contador_8_Bits/Contador_8_Bits_Arduino/Contador_8_Bits.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Program_00_Parpadeo/Parpadeo_Arduino/Parpadeo.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Program_01_Semaforo/Semaforo_Arduino/Semaforo.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_DigitalRead/Ethernet_DigitalRead.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_LedControl/Ethernet_LedControl.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_AcordeonCanvas/Ethernet_AcordeonCanvas.ino",
+		"/C/Users/Anonymous/Documents/Arduino/InstrumentacionProyecto/InstrumentacionProyecto.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Instrumentacion_ArduinoMega/Instrumentacion_ArduinoMega.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Canvas/Ethernet_Canvas.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_SD_WriteTemp/Ethernet_SD_WriteTemp.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_SD_Write/Ethernet_SD_Write.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_TemperaturaSerial/Ethernet_TemperaturaSerial.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Pulsador_Led/Pulsador_Led.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_SD_Final/Ethernet_SD_Final.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_SD_WriteTempAcordeon/Ethernet_SD_WriteTempAcordeon.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Temp_JQuery/Ethernet_Temp_JQuery.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_SD/Ethernet_SD.ino",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/Ajax/index.html",
+		"/C/Users/Anonymous/Documents/Arduino/EthernetSD_TempJQuery/EthernetSD_TempJQuery.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_TemperaturaFinal/Ethernet_TemperaturaFinal.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_TemperaturaCSS/Ethernet_TemperaturaCSS.ino",
+		"/C/Users/Anonymous/Documents/Arduino/EthernetSD_TempFinal/EthernetSD_TempFinal.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_VoltajeSerial/Ethernet_VoltajeSerial.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Serial_LCD/Serial_LCD.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Serial_AnalogInput/Serial_AnalogInput.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Temperatura_Serial/Temperatura_Serial.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Voltaje_Serial/Voltaje_Serial.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Voltaje_LCD/Voltaje_LCD.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Temperatura_LCD/Temperatura_LCD.ino",
+		"/C/Users/Anonymous/Documents/Arduino/ArduinoEthernet/ArduinoEthernet.ino",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/BOOTSTRAP/Bootstrap_Tutorial/bootstrap_2/videos.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/texto/agregarHtml.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/texto/agregarQuitar_Clases.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/texto/atributos.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/texto/agregarSinBorrar.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/texto/texto.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/selectores/seleccion.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Refresh/Tuplas.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Refresh/Listas.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_00_Dame_un_Numero.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_01_Num_Con_Formato.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_45_Escribir_Archivos/Program_45_Escribir_Archivos.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_44_Leer_Archivos/Program_44_Leer_Archivos.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_09_Edad_2_Personas.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_09_Parentesis.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_49_Listas/Program_49_Listas.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_20_Sumatoria.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_21_Raiz_Cuadrada.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_13_Maximo_5_Numeros.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Refresh/Listas",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_08_Num_Positivo_o_Negativo.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_06_Area_de_un_Triangulo.py",
+		"/C/Users/Anonymous/Documentos/Programacion/Programas_Python/Program_05_Introducir_numero.py",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/BOOTSTRAP/Bootstrap_Tutorial/bootstrap/layout.html",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/BOOTSTRAP/Bootstrap_Tutorial/bootstrap/css/bootstrap.css",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/BOOTSTRAP/Bootstrap_Tutorial/bootstrap/index.html",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/BOOTSTRAP/Bootstrap_Tutorial/bootstrap/js/bootstrap.js",
+		"/C/Users/Anonymous/Desktop/x.css",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/JQuery/jquery/selectores/atributos.html",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/JQuery/jquery/codigo.js",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/JQuery/jquery/selectores/id.html",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/JQuery/jquery/selectores/seleccion.html",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/JQuery/jquery/selectores/clases.html",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/JQuery/jquery/selectores/tipos.html",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/JQuery/JavaScript_Refresh/Refresh_00_HolaMundo.html",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/JQuery/JavaScript_Refresh/script.js",
+		"/C/Users/Anonymous/Documents/Arduino/x/x.ino",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/JQuery/jquery/index.html",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/JQuery/jquery/selectores/codigo.js",
+		"/C/Users/Anonymous/Documents/Arduino/n/n.ino",
+		"/C/Users/Anonymous/Documents/Arduino/tggg/tggg.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Parpadeo/Parpadeo.ino",
+		"/C/Users/Anonymous/Documents/Arduino/u/u.ino",
+		"/C/Users/Anonymous/Documents/Arduino/ll/ll.ino",
+		"/C/Users/Anonymous/Documents/Arduino/vvvv/vvvv.ino",
+		"/D/Nube/SkyDrive/Documents/Mecatronica/Web/HTML5 CSS3/MultiPantallas/tmp2.html",
+		"/C/Users/Anonymous/Desktop/xxx.c",
+		"/C/Users/Anonymous/Documents/Arduino/Prueba/Prueba.ino",
+		"/C/Users/Anonymous/Documents/Arduino/loool/loool.ino"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page-",
+			"@"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.ArduinoEthernet":
+	{
+		"height": 130.0
+	},
+	"output.DHT11_ADC":
+	{
+		"height": 124.0
+	},
+	"output.EthernetSD_TempFinal":
+	{
+		"height": 124.0
+	},
+	"output.EthernetSD_TempJQuery":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_AcordeonCanvas":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_Canvas":
+	{
+		"height": 110.0
+	},
+	"output.Ethernet_DigitalRead":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_InverDHT11_2":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_Inver_DHT11":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_Invernadero":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_LedControl":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_SD":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_SD_Final":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_SD_Write":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_SD_WriteTemp":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_SD_WriteTempAcordeon":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_Temp_JQuery":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_TemperaturaCSS":
+	{
+		"height": 132.0
+	},
+	"output.Ethernet_TemperaturaFinal":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_TemperaturaSerial":
+	{
+		"height": 130.0
+	},
+	"output.Ethernet_VoltajeSerial":
+	{
+		"height": 130.0
+	},
+	"output.InstrumentacionProyecto":
+	{
+		"height": 130.0
+	},
+	"output.Instrumentacion_ArduinoMega":
+	{
+		"height": 124.0
+	},
+	"output.Parpadeo":
+	{
+		"height": 130.0
+	},
+	"output.Parpadeo_Arduino":
+	{
+		"height": 130.0
+	},
+	"output.Pulsador_Led":
+	{
+		"height": 124.0
+	},
+	"output.Serial_AnalogInput":
+	{
+		"height": 130.0
+	},
+	"output.Serial_LCD":
+	{
+		"height": 130.0
+	},
+	"output.Temperatura_LCD":
+	{
+		"height": 130.0
+	},
+	"output.Temperatura_Serial":
+	{
+		"height": 130.0
+	},
+	"output.Voltaje_LCD":
+	{
+		"height": 130.0
+	},
+	"output.Voltaje_Serial":
+	{
+		"height": 130.0
+	},
+	"output.eth_websrv_SD_Ajax_in_out":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.ll":
+	{
+		"height": 130.0
+	},
+	"output.n":
+	{
+		"height": 130.0
+	},
+	"output.stino_log":
+	{
+		"height": 130.0
+	},
+	"output.tggg":
+	{
+		"height": 130.0
+	},
+	"output.u":
+	{
+		"height": 130.0
+	},
+	"output.vvvv":
+	{
+		"height": 130.0
+	},
+	"output.x":
+	{
+		"height": 209.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true
+}

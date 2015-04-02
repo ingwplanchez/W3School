@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Controllers</title>
+		<script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+	</head>
+
+	<body ng-app="myApp">
+
+		<!-- 
+			Las aplicaciones AngularJS  están controladas por los controladores.
+			ng-controller: Directiva que define el controlador de la aplicación.
+
+			The AngularJS application is defined by ng-app. The application runs inside a <div>.
+
+			The ng-controller directive defines a controller.
+
+			The myCtrl function is a JavaScript function.
+
+			AngularJS will invoke the controller with a $scope object.
+
+			In AngularJS, $scope is the application object 
+
+			The controller creates two properties (variables) in the scope (firstName and lastName).
+
+			The ng-model directives bind the input fields to the controller properties (firstName and lastName).
+		-->
+
+		<div ng-controller="myCtrl">
+			First Name: <input type="text" ng-model="firstName"><br>
+			Last Name: <input type="text" ng-model="lastName"><br>
+			<br>
+			Full Name: {{firstName + " " + lastName}}
+		</div>
+		
+		<p>-- Controller Methods --</p>
+		<div ng-controller="personCtrl">
+
+			First Name: <input type="text" ng-model="firstName2"><br>
+			Last Name: <input type="text" ng-model="lastName2"><br>
+			<br>
+			Full Name: {{fullName()}}
+
+		</div>
+
+		<script>
+			var app = angular.module('myApp', []);
+
+			app.controller('myCtrl', function($scope) {
+			    $scope.firstName = "John";
+			    $scope.lastName = "Doe";
+			});
+
+			app.controller('personCtrl', function($scope) {
+		    	$scope.firstName2 = "John";
+		    	$scope.lastName2 = "Doe";
+		    	$scope.fullName = function() {
+		        	return $scope.firstName2 + " " + $scope.lastName2;
+		    	}
+			});
+
+		</script>
+
+	</body>
+</html>
