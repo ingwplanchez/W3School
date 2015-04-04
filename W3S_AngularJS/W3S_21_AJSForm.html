@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+  <html>
+
+      <head>
+        <title>Form</title>
+        <script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+      </head>
+
+      <body>
+        <!-- 
+        El ng-app Directiva define la aplicación AngularJS.
+        El ng-controller Directiva define el controlador de la aplicación.
+        El ng-model Directiva une dos elementos de entrada para el usuario objeto en el modelo.
+        El formCtrl función establece los valores iniciales para el maestro de objeto, y define el metodo reset().
+        El metodo reset () establece el usuario objeto igual al maestro objeto.
+        El ng click Directiva invoca el reset () método, sólo si se hace clic en el botón.
+
+        El atributo novalidate no es necesario para esta aplicación, pero normalmente lo usará en AngularJS formas, para anular la validación HTML5 estándar.
+        -->
+
+          <div ng-app="myApp" ng-controller="formCtrl">
+            <!--    
+            El novalidate atributo es nuevo en HTML5. Deshabilita cualquier validación navegador predeterminado.
+            -->
+            <form novalidate>
+                First Name:<br>
+                <input type="text" ng-model="user.firstName"><br>
+                Last Name:<br>
+                <input type="text" ng-model="user.lastName">
+                <br><br>
+                <button ng-click="reset()">RESET</button>
+            </form>
+
+            <p>form = {{user }}</p>
+            <p>master = {{master}}</p>
+      </div>
+
+      <script>
+      var app = angular.module('myApp', []);
+      app.controller('formCtrl', function($scope) {
+          $scope.master = {firstName:"John", lastName:"Doe"};
+          $scope.reset = function() {
+              $scope.user = angular.copy($scope.master);
+          };
+          $scope.reset();
+      });
+      </script>
+
+  </body>
+</html>

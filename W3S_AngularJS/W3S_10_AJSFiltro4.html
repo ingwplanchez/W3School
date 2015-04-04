@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Filtro4</title>
+		<script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+	</head>
+
+	<!-- 
+		Un filtro de entrada se puede añadir a una directiva con un carácter de barra vertical (|) y filtro seguido de dos puntos y el nombre del modelo.
+		
+		The filter filter selects a subset of an array
+	-->
+	<body>
+		<div ng-app="myApp" ng-controller="namesCtrl">
+
+			<p>Filtering input:</p>
+
+			<p><input type="text" ng-model="test"></p>
+
+			<ul>
+			  <li ng-repeat="x in names | filter:test | orderBy:'country'">
+			    {{ (x.name | uppercase) + ', ' + x.country }}
+			  </li>
+			</ul>
+
+		</div>
+
+		<script src="namesController.js"></script>
+
+	</body>
+</html>
